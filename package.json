@@ -1,0 +1,17 @@
+{
+  "name": "mistic-bot",
+  "version": "1.0.0",
+  "description": "Mistic Official Bot Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "inuleyasha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.9",
+    "monitorss": "^6.13.14"
+  }
+}
